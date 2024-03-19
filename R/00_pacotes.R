@@ -3,6 +3,7 @@
 
 # Carregar pacotes
 library(rdbnomics)
+library(httr)
 library(dplyr)
 library(magrittr)
 library(stringr)
@@ -13,3 +14,4 @@ library(rbcb)
 library(ggplot2)
 library(DBI)
 library(duckdb)
+library(xml2)
